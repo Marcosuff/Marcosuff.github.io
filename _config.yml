@@ -11,11 +11,11 @@ description: Deep learning & Drug discovery is a blog to discuss and apply deep 
 github_username: Marcosuff
 
 # Email and twitter are optional:
-email:
+email: marcossantana@id.uff.br
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
-use_math:
+use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
