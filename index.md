@@ -2,6 +2,6 @@ Hello and welcome to **Deep learning & Drug Discovery**!. In this blog I will co
 
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
+# **Deep learning & Drug Discovery**
 
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
