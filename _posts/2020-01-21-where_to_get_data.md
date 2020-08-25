@@ -6,6 +6,10 @@ Welcome to the first post of my blog! In this post I'm going to show some resour
 
 The drug discovery process is quite complicated, involding professionals of different expertises and years of research in order to deliver safe and efficient drugs to pacients. When I say years I mean it. The whole takes between 10 - 15 years, from the initial development of a prototype molecule to regulatory approval and marketing. In addition, the current drug discovery scenario is expensive. To deliver a single new drug to market, pharmaceutical companies usually spend around U$S 1 billion, including costs with initial screening to preclinical and clinical trials. 
 
+
+
+![](/images/41563_2019_338_Fig1_HTML.png "Drug discovery")
+
 To complicate even more, the failure rate in drug discovery campaigns is extremely high. Less than 1% of drug candidates screened at initial stages reach preclinical and clinical phases. This means that  the bulk of expenses come from initial screening and failures to optimize the molecules before testing in humans. Therefore, pharma companies are always looking for ways to accelerate the discovery of good drug candidates and methods to optimize these candidates to potential drug inververntions for clinical trials.  But how can we do that? Is it possible to work smarter and identify the best candidates before expending with biological tests and chemical synthesis? 
 
 Yes. There is a way! Computational drug discovery (CDD) is the yellow brick road to prioritize molecules for screening. In CDD, computer programs can be used to generate research hyphotesis on the fly, leading to a high throughput of ideas that can be explorered even without any molecule available for testing. We can roughly classify CDD methods in three groups: 
