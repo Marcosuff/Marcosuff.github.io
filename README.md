@@ -1,1 +1,1 @@
-# Deep Drugs: My personal blog of deep learning and drug discovery
+# Deep learning projects from the LaBECFar group. 
